@@ -1,1 +1,3 @@
-# uusa-website
+# UUSA Website!
+
+Contains the code for the UUSA Website Redesign.
